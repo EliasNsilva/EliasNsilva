@@ -1,30 +1,26 @@
-
-### Hi there I'm Elias Nogueira👋
-
+### Hi there, I'm Elias Nogueira! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EliasNsilva&label=Profile%20views&color=0e75b6&style=flat" alt="EliasNsilva" /> </p>
 
-- 🔭 I’m currently a Computer Scientist student at the Federal University of Alagoas
-- 🖥 Data Science | Backend development
-- 🌱 Backend developer at LaCCAN   
-- 💬 Let's talk about any new technologies, I'm always looking to new things to learn! 
-- ⚡ Fun fact: I like to study german! :four_leaf_clover:
+- 🔭 I’m currently pursuing a degree in Computer Science at the Federal University of Alagoas.
+- 🖥️ My interests lie in Data Science and Backend development.
+- 🌱 Currently working as a Backend developer at LaCCAN.
+- 💬 I'm always eager to learn about new technologies!
 
 ##
 
 <h4>📫 How to reach me:</h4>  
 <div>
   <a href="https://www.linkedin.com/in/eliasnsilva/">
-  <img heigth="80em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
   
 ##
-  
-<div>
-    <a href="github.com/EliasNsilva">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=EliasNsilva&show_icons=True&theme=midnight-purple"/>  
-    <img heigth ="180en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasNsilva&layout=compact&show_icons=True&theme=midnight-purple"/>
-</div>
 
- 
-  
+<div>
+    <a href="https://github.com/EliasNsilva">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasNsilva&show_icons=True&theme=midnight-purple"/>  
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasNsilva&layout=compact&show_icons=True&theme=midnight-purple"/>
+    </a>
+</div>
